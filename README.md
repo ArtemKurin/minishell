@@ -1,4 +1,5 @@
 # minishell
+a group project of School 21, a simplified copy of the BASH shell implemented in C.  
 <img width="1082" alt="Screen Shot 2022-02-16 at 2 29 51 PM" src="https://user-images.githubusercontent.com/79366498/154256200-0b7c1b29-d729-46fc-a8ae-4c202e6cc03e.png">
 
 <img width="1004" alt="Screen Shot 2022-02-16 at 1 31 56 PM" src="https://user-images.githubusercontent.com/79366498/154246673-1ff07f0a-120f-4b97-afc5-8278557d3cb6.png">
